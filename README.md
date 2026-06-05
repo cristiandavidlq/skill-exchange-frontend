@@ -16,7 +16,7 @@ Interfaz web para **Skills Exchange**, una plataforma donde los usuarios pueden 
 ## Instalación
 
 ```bash
-git clone https://github.com/JDuvanC10/skill-exchange-frontend.git
+git clone https://github.com/cristiandavidlq/skill-exchange-frontend.git
 cd skill-exchange-frontend
 npm install
 ```
